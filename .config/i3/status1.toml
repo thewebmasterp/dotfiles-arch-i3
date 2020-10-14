@@ -1,0 +1,12 @@
+theme = "modern"
+icons = "awesome"
+
+
+[[block]]
+block = "disk_space"
+path = "/"
+alias = "/"
+info_type = "available"
+unit = "GB"
+interval = 20.0
+
