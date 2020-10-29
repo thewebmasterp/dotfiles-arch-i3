@@ -1,0 +1,26 @@
+/* Calendar week, day label */
+GtkCalendar.highlight 
+{
+	background-color: #000000;
+	color: #000000;
+	font-weight: bold;
+}
+
+/*Calendar content*/
+GtkCalendar.view
+{
+	background-color: #000000;
+}
+
+/* day selected */
+GtkCalendar:selected
+{
+	background-color: #000000;
+}
+
+
+/* Month and year */
+GtkCalendar.header
+{
+	color: #000000;
+}
