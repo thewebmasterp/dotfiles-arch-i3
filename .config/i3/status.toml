@@ -1,9 +1,6 @@
 theme = "modern" #"solarized-dark"
 icons = "awesome"
 
-[[block]]
-block = "uptime"
-
 ######################
 ## System Resources ##
 ######################
@@ -67,8 +64,12 @@ ap_format = "{strength}%"
 device_format = "{icon}{ap}"
 
 [[block]]
+block = "backlight"
+device = "intel_backlight"
+
+[[block]]
 block = "sound"
-on_click = "pavucontrol"
+on_click = "pavucontrol" 
 
 [[block]]
 block = "battery"

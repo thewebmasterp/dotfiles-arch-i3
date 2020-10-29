@@ -2,7 +2,13 @@
     "telemetry.machineId": "8ffa9484b3ab208f1b713f6719aafa26e3087664bf282bdbba1f2281f794ed66",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/master/Workspace/dotfiles-arch-i3",
+            "file:///home/master/.config",
             "file:///home/master/Workspace/fcc",
+            "file:///home/master/Workspace/fcc/Data%20Visualization",
+            "file:///home/master/Workspace/webmaster_project/Content/snippets/period%208%20-%20perestroika",
+            "file:///home/master/Workspace/d3TutorialProjects",
+            "file:///home/master/Workspace/smileFace",
             "file:///home/master/Workspace/webmaster_project",
             "file:///home/master/Workspace/fcc/Front%20End%20Libraries",
             "file:///home/master/Downloads/sync-youtube-playlist",
@@ -13,6 +19,10 @@
             "file:///home/master/Images"
         ],
         "files2": [
+            "file:///home/master/.config/scripts/getBrightness.js",
+            "file:///home/master/Workspace/d3TutorialProjects/1.%20Bar%20chart/index.html",
+            "file:///home/master/Workspace/d3TutorialProjects/1.%20Bar%20chart/script.js",
+            "file:///home/master/Downloads/WPP2019_TotalPopulationBySex.csv",
             "file:///home/master/Downloads/sync-youtube-playlist/package.json",
             "file:///home/master/Downloads/sync-youtube-playlist/index.js",
             "file:///home/master/index.js",
@@ -58,8 +68,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -68,13 +77,79 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/master/Workspace/fcc",
+                                        "fsPath": "/home/master/Workspace/dotfiles-arch-i3",
+                                        "external": "file:///home/master/Workspace/dotfiles-arch-i3",
+                                        "path": "/home/master/Workspace/dotfiles-arch-i3",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Workspace/dotfiles-arch-i3"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/master/.config",
+                                        "path": "/home/master/.config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/master/Workspace/fcc",
                                         "path": "/home/master/Workspace/fcc",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/Workspace/fcc"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/master/Workspace/fcc/Data%20Visualization",
+                                        "path": "/home/master/Workspace/fcc/Data Visualization",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Workspace/fcc/Data Visualization"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/master/Workspace/webmaster_project/Content/snippets/period%208%20-%20perestroika",
+                                        "path": "/home/master/Workspace/webmaster_project/Content/snippets/period 8 - perestroika",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Workspace/webmaster_project/Content/snippets/period 8 - perestroika"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/master/Workspace/d3TutorialProjects",
+                                        "path": "/home/master/Workspace/d3TutorialProjects",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Workspace/d3TutorialProjects"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/master/Workspace/smileFace",
+                                        "path": "/home/master/Workspace/smileFace",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Workspace/smileFace"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -110,62 +185,51 @@
                                     "label": "~/Downloads/sync-youtube-playlist"
                                 },
                                 {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/master/nishu-app",
-                                        "path": "/home/master/nishu-app",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/nishu-app"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/master/Workspace/code/calories_calculator/src",
-                                        "path": "/home/master/Workspace/code/calories_calculator/src",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Workspace/code/calories_calculator/src"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/master/Workspace/code/calorie%20calculator/Smart%20Calorie%20Calculator%20app%206",
-                                        "path": "/home/master/Workspace/code/calorie calculator/Smart Calorie Calculator app 6",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Workspace/code/calorie calculator/Smart Calorie Calculator app 6"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/master/Workspace/freeCodeCamp-master/freeCodeCamp-master",
-                                        "path": "/home/master/Workspace/freeCodeCamp-master/freeCodeCamp-master",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Workspace/freeCodeCamp-master/freeCodeCamp-master"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/master/Images",
-                                        "path": "/home/master/Images",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Images"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/master/.config/scripts/getBrightness.js",
+                                        "path": "/home/master/.config/scripts/getBrightness.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/scripts/getBrightness.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/master/Workspace/d3TutorialProjects/1.%20Bar%20chart/index.html",
+                                        "path": "/home/master/Workspace/d3TutorialProjects/1. Bar chart/index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Workspace/d3TutorialProjects/1. Bar chart/index.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/master/Workspace/d3TutorialProjects/1.%20Bar%20chart/script.js",
+                                        "path": "/home/master/Workspace/d3TutorialProjects/1. Bar chart/script.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Workspace/d3TutorialProjects/1. Bar chart/script.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/master/Downloads/WPP2019_TotalPopulationBySex.csv",
+                                        "path": "/home/master/Downloads/WPP2019_TotalPopulationBySex.csv",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/WPP2019_TotalPopulationBySex.csv"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -234,39 +298,6 @@
                                     "label": "~/.ssh/id_rsa.pub"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/master/Workspace/freeCodeCamp-master/freeCodeCamp-master/client/package.json",
-                                        "path": "/home/master/Workspace/freeCodeCamp-master/freeCodeCamp-master/client/package.json",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Workspace/freeCodeCamp-master/freeCodeCamp-master/client/package.json"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/master/Workspace/freeCodeCamp-master/freeCodeCamp-master/client/package-lock.json",
-                                        "path": "/home/master/Workspace/freeCodeCamp-master/freeCodeCamp-master/client/package-lock.json",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Workspace/freeCodeCamp-master/freeCodeCamp-master/client/package-lock.json"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/master/.config/i3/config",
-                                        "path": "/home/master/.config/i3/config",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/i3/config"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -307,7 +338,8 @@
                     },
                     {
                         "id": "workbench.action.files.saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -578,7 +610,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar"
+                                    "label": "Show &&Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -597,7 +630,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
+                                    "label": "Show &&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1092,8 +1126,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1641,20 +1674,42 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#232834",
+    "themeBackground": "#1f2430",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/master/Workspace/fcc",
-            "backupPath": "/home/master/.config/Code - OSS/Backups/fae9970fa06c6218c62a4c72848e632f",
+            "folder": "file:///home/master/Workspace/dotfiles-arch-i3",
+            "backupPath": "/home/master/.config/Code - OSS/Backups/f64b6c51ecef3e7b52761c2795baa568",
             "uiState": {
                 "mode": 1,
-                "x": 1,
+                "x": 1921,
                 "y": 25,
-                "width": 1342,
+                "width": 1918,
                 "height": 1054
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "backupPath": "/home/master/.config/Code - OSS/Backups/1603989809568",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1921,
+                    "y": 25,
+                    "width": 1918,
+                    "height": 1054
+                }
+            },
+            {
+                "folder": "file:///home/master/Workspace/dotfiles-arch-i3",
+                "backupPath": "/home/master/.config/Code - OSS/Backups/f64b6c51ecef3e7b52761c2795baa568",
+                "uiState": {
+                    "mode": 1,
+                    "x": 1921,
+                    "y": 25,
+                    "width": 1918,
+                    "height": 1054
+                }
+            }
+        ]
     },
     "pickerWorkingDir": "/home/master/Workspace"
 }

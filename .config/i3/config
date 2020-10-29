@@ -74,7 +74,7 @@
 #################
 
  #colors
- set $bar_background    #00000000
+ set $bar_background    #0000000
  set $bar_text_active   #2ca2f5
  set $bar_text_inactive #ffffff
 
@@ -273,9 +273,13 @@
  bindsym XF86AudioMute exec amixer -q set Master toggle && $refresh_i3status
  bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
 
- # adjust brightness
+ # adjust brightness (primal monitor)
  bindsym XF86MonBrightnessUp exec xbacklight -inc 5
- bindsym XF86MonBrightnessDown exec xbacklight -dec 5 
+ bindsym XF86MonBrightnessDown exec xbacklight -dec 5
+ 
+ # adjust brightness (second monitor)
+ bindcode 72 exec ~/.config/scripts/bright + HDMI2
+ bindcode 71 exec ~/.config/scripts/bright - HDMI2
 
  # turn redshift on/off (blue light reducer)
  bindsym $mod+Shift+i exec redshift -t 3700:3700 # -g 0.5
